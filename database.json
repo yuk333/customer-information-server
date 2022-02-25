@@ -1,0 +1,7 @@
+{
+    "host":"database-1.cjyg9xgeypaa.us-east-1.rds.amazonaws.com",
+    "user":"admin",
+    "password":"jhyhwh0079",
+    "port":"3306",
+    "database":"sys"
+}
